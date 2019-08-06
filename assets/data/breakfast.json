@@ -1,0 +1,28 @@
+{
+	"breakfast": [{
+			"name": "fish cutlet",
+			"price": "$2",
+			"calories": "200"
+		},
+		{
+			"name": "beef soup",
+			"price": "$5",
+			"calories": "200"
+		},
+		{
+			"name": "rice",
+			"price": "$1",
+			"calories": "100"
+		},
+		{
+			"name": "noodles",
+			"price": "$1",
+			"calories": "100"
+		},
+		{
+			"name": "coffee",
+			"price": "$1",
+			"calories": "3"
+		}
+	]
+}

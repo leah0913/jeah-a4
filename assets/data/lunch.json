@@ -1,0 +1,28 @@
+{
+	"lunch": [{
+			"name": "fried dimsum",
+			"price": "$5",
+			"calories": "400"
+		},
+		{
+			"name": "sausage",
+			"price": "$5",
+			"calories": "200"
+		},
+		{
+			"name": "chicken nuggets",
+			"price": "$3",
+			"calories": "200"
+		},
+		{
+			"name": "coke",
+			"price": "$1",
+			"calories": "130"
+		},
+		{
+			"name": "coffee",
+			"price": "$1",
+			"calories": "3"
+		}
+	]
+}

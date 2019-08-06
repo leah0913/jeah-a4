@@ -1,0 +1,28 @@
+{
+	"dinner": [{
+			"name": "corn cheese",
+			"price": "$5",
+			"calories": "300"
+		},
+		{
+			"name": "tuna",
+			"price": "$5",
+			"calories": "200"
+		},
+		{
+			"name": "rice",
+			"price": "$1",
+			"calories": "100"
+		},
+		{
+			"name": "macaroni cheese",
+			"price": "$3.5",
+			"calories": "200"
+		},
+		{
+			"name": "furikake",
+			"price": "$0.5",
+			"calories": "50"
+		}
+	]
+}
